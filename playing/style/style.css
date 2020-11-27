@@ -1,0 +1,88 @@
+
+h1{
+    font-size: 27px;
+    font-family: 'Titillium Web', sans-serif;
+    margin: 5px 0 0 170px;
+}
+
+
+#All{
+    background-color: rgb(8, 8, 8);
+    color: white;
+    font-size: 17px;
+    margin: 20px 0 5px 20px;
+    border-radius: 10px;
+}
+
+#Poetry{
+    background-color:#36D9BB;
+    font-size: 17px;
+    border-radius: 10px;
+
+}
+
+#Fiction{
+    background-color:#36BFA6;
+    font-size: 17px;
+    border-radius: 10px;
+
+}
+
+#Biography{
+    background-color:#38F2BD;
+    font-size: 17px;
+    border-radius: 10px;
+
+}
+
+#authors{
+    background-color: rgb(8, 8, 8);
+    color: white;
+    font-size: 17px;
+    margin: 20px 0 5px 20px;
+    border-radius: 10px;
+}
+
+#poeAut{
+    background-color: #36D9BB;
+    font-size: 17px;
+    border-radius: 10px;
+}
+#bioAut{
+    background-color: #38F2BD;
+    font-size: 17px;
+    border-radius: 10px;
+}
+
+#ficAut {
+    background-color:#36BFA6;
+    font-size: 17px;
+    border-radius: 10px;
+}
+
+#display {
+    width: 320px;
+    height: 240px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:rgb(241, 240, 240);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 10px 30px 40px 90px;
+
+}
+
+#displayAuthors{
+    width: 320px;
+    height: 240px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(241, 240, 240);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 10px 30px 40px 90px;
+}
